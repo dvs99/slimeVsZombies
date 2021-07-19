@@ -1,5 +1,5 @@
 # Slime vs Zombies
-Game developed using the Phaser framework as the final project of the course 'Web Game Design and Development' in collaboration with Alexandra Moreno Díaz and Cristian Cantos Roselló. You can play it [here](https://dvs99.github.io/slimeVsZombies/).
+Game developed using JavaScript and the Phaser framework as the final project of the course 'Web Game Design and Development'. You can play it [here](https://dvs99.github.io/slimeVsZombies/).
 
 
 ## Team setup
